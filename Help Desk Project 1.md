@@ -48,5 +48,5 @@ Simulate a realistic enterprise environment by deploying a Windows Server 2019 D
 - Simulate attacks like pass-the-hash in a safe lab
 
 ## 📸 Screenshots
-[https://imgur.com/gallery/help-desk-project-1-SO2a67a](url)
+✅ Screenshots hosted on [Help Desk Project 1](https://imgur.com/gallery/help-desk-project-1-SO2a67a)
 
