@@ -120,7 +120,3 @@ Helped me understand how to balance policy enforcement with user needs, and how 
 
 ---
 
-## 📎 Attachments
-- ✅ [Password Reset Lab](link)
-- ✅ [VPN/MFA Simulation Notes](link)
-- ✅ [GitHub Projects](link to portfolio repo or README.md files)
