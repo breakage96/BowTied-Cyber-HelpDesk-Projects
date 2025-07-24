@@ -48,9 +48,5 @@ Simulate a realistic enterprise environment by deploying a Windows Server 2019 D
 - Simulate attacks like pass-the-hash in a safe lab
 
 ## 📸 Screenshots
+[https://imgur.com/gallery/help-desk-project-1-SO2a67a](url)
 
-### Active Directory Initialized (lab.local domain)
-![AD Screenshot](remmina_54.210.118.92_54.210.118.92_20250716-020140.png)
-
-### Creating a New Domain User (VIP@lab.local)
-![User Creation Screenshot](remmina_54.210.118.92_54.210.118.92_20250716-020258.png)
