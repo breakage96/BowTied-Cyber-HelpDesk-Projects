@@ -84,5 +84,4 @@ Refer to Link at bottom
 ---
 
 ## 📎 Attachments
-- ✅ [PDF Lab Report](Password_Reset_Account_Lockout_Lab.pdf)
 - ✅ Screenshots hosted on [Imgur Album](https://imgur.com/a/aanj7GU)
