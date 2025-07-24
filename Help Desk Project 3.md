@@ -57,6 +57,5 @@ Simulate two common Helpdesk tasks in a Windows domain environment:
 
 ---
 
-## 📎 Attachments
-- ✅ PDF Lab Report  
+## 📎 Attachments 
 - ✅ [Screenshots Album on Imgur](https://imgur.com/gallery/help-desk-project-3-xBBBGv3)
