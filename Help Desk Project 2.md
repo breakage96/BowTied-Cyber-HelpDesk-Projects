@@ -28,7 +28,7 @@ Simulate a Tier 1 Helpdesk task:
 - Enabled “User must change password at next logon”
 
 📸 Screenshot:
-![User Creation](https://i.imgur.com/lcgEKMW.png)
+Refer to Link at bottom
 
 ---
 
@@ -38,7 +38,7 @@ Simulate a Tier 1 Helpdesk task:
   > `"Account locked out"`
 
 📸 Screenshot:
-![Lockout Message](https://i.imgur.com/rsPD4yU.png)
+Refer to Link at bottom
 
 ---
 
@@ -47,7 +47,7 @@ Simulate a Tier 1 Helpdesk task:
 - Unchecked “User must change password at next logon”
 
 📸 Screenshot:
-![Password Reset](https://i.imgur.com/YcmO0WJ.png)
+Refer to Link at bottom
 
 **Optional PowerShell Command:**
 ```powershell
@@ -62,7 +62,7 @@ Unlock-ADAccount -Identity "jdoe"
 - Checked "Unlock account" if it was still locked
 
 📸 Screenshot:
-![Account Tab](https://i.imgur.com/Y2JKoZZ.png)
+Refer to Link at bottom
 
 ---
 
@@ -73,7 +73,7 @@ Unlock-ADAccount -Identity "jdoe"
   - `4724` = Password reset
 
 📸 Screenshot:
-![Event Viewer](https://i.imgur.com/yxOphwu.png)
+Refer to Link at bottom
 
 ---
 
